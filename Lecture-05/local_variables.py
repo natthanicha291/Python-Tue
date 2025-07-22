@@ -1,4 +1,5 @@
 def my_function():
-    locals_var = "อยากลาออก"
+    locals_var = "Natthanicha"
     print(locals_var)
+    
 my_function()

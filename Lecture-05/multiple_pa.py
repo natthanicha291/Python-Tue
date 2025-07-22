@@ -3,3 +3,4 @@ def add(a, b):
 
 result = add(3, 5)
 print(result)
+print(add(5,6))

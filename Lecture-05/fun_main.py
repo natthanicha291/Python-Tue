@@ -3,7 +3,7 @@ def main():
     message()
     print('Goodbye!')
 
-    def message():
+def message():
         print('I am Natthanicha')
         print('Natee')  
 main()
