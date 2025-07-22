@@ -6,4 +6,4 @@ def increment():
 increment()
 increment()
 
-print("Counter:")
+print("Counter:", counter)
