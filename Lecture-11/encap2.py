@@ -1,0 +1,16 @@
+class employee():
+    def __init__(self):
+        self.__maxearn = 30000
+    def earn(self):
+        print('earning is:', self.__maxearn)
+    def setmaxearn(self, earn):
+        self.__maxearn = earn
+
+emp1 = employee()
+emp1.earn()
+
+emp1.__maxearn(50000)
+emp1.earn()
+
+emp1.setmaxearn(70000)
+emp1.earn()
